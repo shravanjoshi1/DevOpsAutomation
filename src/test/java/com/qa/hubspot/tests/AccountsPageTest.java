@@ -13,7 +13,7 @@ import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 import io.qameta.allure.Story;
 
-@Epic("EPIC-200: Design Accounts Page")
+@Epic("EPIC-200: Design a new Accounts Page")
 @Story("US - 201: desiging the accounts page with title, header, account sections and product results..")
 public class AccountsPageTest extends BaseTest {
 
