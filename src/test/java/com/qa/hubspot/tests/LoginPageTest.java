@@ -14,7 +14,7 @@ import io.qameta.allure.Story;
 
 //@Listeners(ExtentReportListener.class)
 
-@Epic("Epic 100: define loing page features....")
+@Epic("Epic 100: define login page features....")
 @Story("US 101: define the login page class features with title, forgot pwd link and login functionality")
 public class LoginPageTest extends BaseTest {
 
